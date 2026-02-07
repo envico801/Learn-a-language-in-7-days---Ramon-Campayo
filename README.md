@@ -2,13 +2,15 @@
 
 ## Table of Contents
 
-- [Overview of Chapters 1–6](#overview-of-chapters-1%E2%80%936)
-- [Continuation of Chapter 6 and Chapters 7–8](#continuation-of-chapter-6-and-chapters-7%E2%80%938)
-- [Summary of Chapters 9–11](#summary-of-chapters-9%E2%80%9311)
-- [Key Points from Chapters 12–18](#key-points-from-chapters-12%E2%80%9318)
-- [Chapters 18–23 and Appendices Overview](#chapters-18%E2%80%9323-and-appendices-overview)
+- [Overview of Chapters 1–6](#overview-of-chapters-16)
+- [Continuation of Chapter 6 and Chapters 7–8](#continuation-of-chapter-6-and-chapters-78)
+- [Summary of Chapters 9–11](#summary-of-chapters-911)
+- [Key Points from Chapters 12–18](#key-points-from-chapters-1218)
+- [Chapters 18–23 and Appendices Overview](#chapters-1823-and-appendices-overview)
 
 ## Overview of Chapters 1–6
+
+[⬆ Back to top](#learn-a-language-in-7-days---ramon-campayo)
 
 ### 1. Key Concepts & Theory
 
@@ -54,6 +56,8 @@ In this batch, Campayo uses **German** examples to demonstrate the association t
 1. **The "Tarzan" Prep:** Accept that for the first week of practice, you will speak in infinitives. Drop the perfectionism of wanting to conjugate verbs correctly immediately.
 
 ## Continuation of Chapter 6 and Chapters 7–8
+
+[⬆ Back to top](#learn-a-language-in-7-days---ramon-campayo)
 
 ### 1. Key Concepts & Theory
 
@@ -159,6 +163,8 @@ Campayo explicitly advises *against* learning full conjugations initially. Use t
 
 ## Summary of Chapters 9–11
 
+[⬆ Back to top](#learn-a-language-in-7-days---ramon-campayo)
+
 ### 1. Key Concepts & Theory
 
 - **Visualizing the Abstract:** You cannot memorize what you cannot see. For abstract verbs (like "to rent" or "to learn"), you must find a **Sound-Alike** word in your native language that *is* visualizable.
@@ -249,6 +255,8 @@ This batch focuses heavily on **how to visualize the Spanish concepts** so they 
    - Pay attention to Campayo's warnings about words that look alike but mean different things (e.g., *Largo* in Spanish means Long, not Large). Use the visualization to fix the *true* meaning.
 
 ## Key Points from Chapters 12–18
+
+[⬆ Back to top](#learn-a-language-in-7-days---ramon-campayo)
 
 ### 1. Key Concepts & Theory
 
@@ -395,6 +403,8 @@ This batch focuses heavily on **how to visualize the Spanish concepts** so they 
 - **Maintenance:** Review tables daily. Translate thoughts mentally into the target language throughout the day.
 
 ## Chapters 18–23 and Appendices Overview
+
+[⬆ Back to top](#learn-a-language-in-7-days---ramon-campayo)
 
 ### 1. Key Concepts & Theory
 
